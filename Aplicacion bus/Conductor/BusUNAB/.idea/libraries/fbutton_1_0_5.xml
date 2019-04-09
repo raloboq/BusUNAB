@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fbutton-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/139ffd9df683acb626bdbd27a21d1b3f67eb21b9/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/139ffd9df683acb626bdbd27a21d1b3f67eb21b9/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.hoang8f/fbutton/1.0.5/164d5d1e301245a37e6f889d708fcb9466e39620/fbutton-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

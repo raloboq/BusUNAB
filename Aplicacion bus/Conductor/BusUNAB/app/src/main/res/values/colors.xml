@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6D00</color>
+    <color name="colorPrimaryDark">#FF6D00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonAceptColor">#64DD17</color>
+    <color name="buttonCancelColor">#ff1744</color>
+    <color name="colorBusOff">#f44336</color>
+    <color name="shadowColor">#616161</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bus UNAB</string>
+    <string name="errorUpdate">Error al iniciar el servicio, intentando nuevamente...</string>
+    <string name="errorPause">Error al pausar el servicio, intente nuevamente</string>
+    <string name="errorCancel">Error al cancelar el servicio, intente nuevamente</string>
+    <string name="iniciandoServicio">Iniciando servicio...</string>
+    <string name="pausandoServicio">Pausando servicio...</string>
+    <string name="cancelandoServicio">Cancelando servicio...</string>
+    <string name="servicioCancelado">Servicio Cancelado</string>
+    <string name="servicioPausado">Servicio pausado</string>
+    <string name="encenderUbicacion">Active los servicios de ubicación</string>
+    <string name="encenderInternet">Sin conexión. Encienda el servicio de internet</string>
+    <string name="encenderUbicacionEInternet">Active los servicios de ubicación e internet</string>
+    <string name="salir">¿Está seguro de salir? Se cancelará el servicio del bus</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bus UNAB mapa</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cargando">Cargando coordenadas</string>
+    <string name="error">Error al obtener los datos</string>
+    <string name="intentar">¿Intentar de nuevo?</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="recuperandoConexion">Recuperando conexión...</string>
+    <string name="estado">BUS FUERA DE SERVICIO</string>
+    <string name="busFueradeServicio">Bus fuera de servicio</string>
+    <string name="busPausado">BUS DETENIDO</string>
+    <string name="sinSeñal">Conexión no establecida</string>
+    <string name="informacion">Acerca de</string>
+    <string name="lista_mapas">Cambiar estilo del mapa</string>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_unab_circle.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_unab_circle.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_bus_unab.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_bus_unab.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_csu.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_csu.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_unab.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_unab.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_csu_circle.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_csu_circle.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_parada.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Usuario/BusUNABmapa/app/src/main/res/mipmap-hdpi/ic_parada.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/blink.xml",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/renelobo/.android/build-cache/3f6da2236bb8b9ac87f0a6259362286eb08bcda2/output/res/anim/abc_popup_exit.xml"
+    }
+]

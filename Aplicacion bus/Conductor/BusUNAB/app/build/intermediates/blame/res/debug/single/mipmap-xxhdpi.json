@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_ok.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/src/main/res/mipmap-xxhdpi/ic_ok.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_cancel.png",
+        "source": "/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/src/main/res/mipmap-xxhdpi/ic_cancel.png"
+    }
+]

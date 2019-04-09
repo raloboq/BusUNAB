@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6D00</color>
+    <color name="colorPrimaryDark">#FF6D00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBusOff">#f44336</color>
+    <color name="shadowColor">#424242</color>
+    <color name="textBusPausado">#80d750</color>
+    <color name="textSinSeñal">#616161</color>
+</resources>

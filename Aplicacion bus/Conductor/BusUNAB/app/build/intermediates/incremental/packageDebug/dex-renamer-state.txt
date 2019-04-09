@@ -1,0 +1,7 @@
+#Tue Aug 29 15:58:19 COT 2017
+base.0=/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b77cf861e87cd38b689a292a1dc90f65a28d35f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_442c6c12a4247448141b06a5f462b55f5c8d1a2d/classes.dex
+base.1=/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_442c6c12a4247448141b06a5f462b55f5c8d1a2d
+file.0=/Users/renelobo/Dropbox/Aplicacion bus/Conductor/BusUNAB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b77cf861e87cd38b689a292a1dc90f65a28d35f/classes.dex

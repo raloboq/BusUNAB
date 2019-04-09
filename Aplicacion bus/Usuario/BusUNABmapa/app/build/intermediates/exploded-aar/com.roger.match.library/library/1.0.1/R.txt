@@ -1,0 +1,7 @@
+int attr text 0x7f010000
+int attr textColor 0x7f010001
+int attr textSize 0x7f010002
+int[] styleable match { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable match_text 0
+int styleable match_textColor 1
+int styleable match_textSize 2
